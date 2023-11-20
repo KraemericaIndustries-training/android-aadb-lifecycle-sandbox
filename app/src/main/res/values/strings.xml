@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Activity Lifecycle Sandbox</string>
+    <string name="exit_activity">Exit Activity</string>
+</resources>
